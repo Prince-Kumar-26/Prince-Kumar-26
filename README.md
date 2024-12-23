@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prince-Kumar-26
-- 👀 I’m interested in ...PYTHON
-- 🌱 I’m currently learning ...MY SQL
-- 💞️ I’m looking to collaborate on any HTML,CSS and PYTHON project
+- 👀 I’m interested in ...PYTHON, Machine Learning
+- 🌱 I’m currently learning ... Machine Learning models
+- 💞️ I’m looking to collaborate on any HTML,CSS, PYTHON project and ML Model
 - 📫 How to reach me ...prince_kumar@cmr.edu.in
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
